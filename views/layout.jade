@@ -1,0 +1,28 @@
+include mixins/utils
+
+!!! 5
+html(class='no-js')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+ 
+    title= (!!title? title + ' - ' : '') + site.name
+ 
+    meta(name='description',content=site.description)
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+ 
+    link(rel='stylesheet', href='//code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css')
+    
+    script(src='js/libs/require.js', data-main='js/init')
+ 
+  body
+    block content
+
+    - if (site.analytics)
+      script.
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXXXXX-X');ga('send','pageview');

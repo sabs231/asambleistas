@@ -1,0 +1,57 @@
+mixin alertlist(errors, alertType)
+  -if (errors.length)
+    div(class='alert #{alertType}')
+      ul
+        - each error in errors
+          li= error
+
+mixin selectcategory(categories, current, id, sclass)
+  select(name='category', id=id, class=sclass)
+    option(value='')= __i('All')
+    - for category in categories
+      option(value=category._id, selected=category._id.toString()==current)= category.name
+
+mixin viewproposal(proposal)
+  .proposal
+    .row  
+      .body.span6
+        h3.title= proposal.title
+        p.categories
+          - for category in proposal.categories
+            a.category(href=url('elections.proposal') + '?category=' + category._id)= category.name
+        p.summary= proposal.summary
+      .voting.span2
+        form.proposal-form(action=url('elections.proposal.vote'), method='POST')
+          input(type='hidden', name='proposalid', value=proposal._id)
+          button.btn.yes(type='submit', name='vote', value='yes')
+            i.icon-ok
+            span.visuallyhidden = __i('Yes')
+          button.btn.maybe(type='submit', name='vote', value='maybe')
+            i.icon-question-sign
+            span.visuallyhidden = __i('Maybe')
+          button.btn.no(type='submit', name='vote', value='no')
+            i.icon-remove
+            span.visuallyhidden= __i('No')
+
+mixin proposallist(proposals)
+  - for proposal in proposals
+    mixin viewproposal(proposal)
+
+mixin sidebar
+  h2= __i('Filter the proposals')
+  p= __i('Shorten the list of proposals by choosing among all the categories we\'ve organized the proposals in.')
+  form#proposal-category.well.form-inline(action=url('elections.proposal'),method='GET')
+    .control-group
+      mixin selectcategory(categories, category, 'filter-category', 'input-medium')
+      button.btn(type='submit')= __i('Filter')
+    p= __i('Or, instead, you can...')
+    a.btn.btn-primary(href=url('elections.proposal'))= __i('View them all')
+  h2= __i('Read the proposals')
+  p= __i('Each proposal has a summary so you can have a better idea of it, and therefore make up your mind.')
+  h2= __i('Cast your vote!')
+  p= __i('Vote for the proposal and check more information about the offering candidate and the proposal itself.')
+  h2= __i('Read suggestions!')
+  p= __i('After you have voted for a few proposals, we can suggest you who\'s the candidate that is best aligned with your views.')
+  .well
+    p= __i('Generate report based on the proposals I have voted for.')
+    a.btn.btn-primary(href='#')= __i('Generate')

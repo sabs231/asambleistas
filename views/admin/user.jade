@@ -1,0 +1,40 @@
+extends layout
+
+block content
+  ul.breadcrumb
+    li
+      a(href=url('elections.admin'))= __i('Administration')
+      span.divider /
+    li
+      a(href=url('elections.admin.users'))= __i('Users')
+      span.divider /
+    li.active
+      a(href=url('elections.admin.user', {userid: cuser._id}))= cuser.name.full
+
+  h2= __i('User: %s', cuser.name.full)
+  p= __i('You can edit this user in this page.')
+  ul.nav.nav-pills
+    li
+      a(href='#user-edit')= __i('Edit User')
+
+  h3#user-edit= __i('Edit User')
+  p= __i('In this section you can edit this user.')
+  form.well(action=url('elections.admin.user', {userid: cuser._id}), method='POST')
+    .control-group#user-username
+      label(for='username')= __i('User Name')
+      input(name='username', id='username', required=true, value=cuser[everyauth.password.loginFormFieldName])
+    .control-group#user-name-first
+      label(for='name-first')= __i('First Name')
+      input(name='name.first', id='name-first', required=true, value=cuser.name.first)
+    .control-group#user-name-last
+      label(for='name-last')= __i('Last Name')
+      input(name='name.last', id='name-last', required=true, value=cuser.name.last)
+    .control-group#user-email
+      label(for='email')= __i('Email')
+      input(type='email', name='email', id='email', required=true, value=cuser.email)
+    .control-group#user-password
+      label.checkbox(for='password')= __i('Reset password?')
+        input(type='checkbox', name='password', id='password')
+      span.help-block= __i('Check to reset the user\'s password.')
+    .control-group#submit
+      input.btn.btn-primary(type='submit')= __i('Save')

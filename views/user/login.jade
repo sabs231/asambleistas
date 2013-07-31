@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h2 Login
+
+  .well
+    include _login
+
+  h3= __i('Or use your existing account')
+  ul.acct-login-list.row
+    li.span1
+      a.acct-login(href='/auth/facebook') Facebook
+    li.span1
+      a.acct-login(href='/auth/twitter') Twitter

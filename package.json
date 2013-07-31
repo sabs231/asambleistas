@@ -1,0 +1,39 @@
+{
+  "name": "asambleistas",
+  "author": [{
+    "name": "Sergio Baez",
+    "email": ""
+  },
+  {
+    "name": "Diego Luces",
+    "email": "me@dluces.com"
+  }],
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "debug": "*",
+    "express": "3.x",
+    "jade": "*",
+    "i18n": "*",
+    "moment": "*",
+    "express-routes": "*",
+    "mongoose": "3.x",
+    "mongoose-types": ">= 1.0.3",
+    "everyauth":  "*",
+    "mongoose-auth": "*"
+  },
+  "analyze": false,
+  "readmeFilename": "README.md",
+  "description": "Web app for following everything around Ecuador's National Assembly.",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabs231/asambleistas.git"
+  },
+  "bugs": {
+    "mail": "",
+    "url": "https://github.com/sabs231/asambleistas/issues"
+  }
+}

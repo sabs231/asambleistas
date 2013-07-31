@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  ul.breadcrumb
+    li.active
+      a(href=url('elections.admin'))= __i('Administration')
+
+  h1= __i('Administration')
+  p= __i('Manage the data in your site and the settings.')
+
+  ul.nav.nav-pills
+    li.active
+      a(href=url('elections.admin'))= __i('Admin')
+    li
+      a(href=url('elections.admin.elections'))= __i('Elections')
+    li
+      a(href=url('elections.admin.fixtures'))= __i('Test Data')

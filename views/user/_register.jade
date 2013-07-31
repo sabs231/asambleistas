@@ -1,0 +1,20 @@
+- userParams.name = userParams.name || {};
+
+form(action='/register', method='POST')
+  .control-group#login-user
+    label(for='user')= __i('User Name')
+    input(name=everyauth.password.loginFormFieldName, value=userParams[everyauth.password.loginFormFieldName], id='user')
+  .control-group#login-password
+    label(for='password')= __i('Password')
+    input(type='password', name=everyauth.password.passwordFormFieldName, id='password')
+  .control-group#login-first-name
+    label(for='name.first')= __i('First Name')
+    input(name='name.first', value=userParams['name']['first'], id='name.first')
+  .control-group#login-last-name
+    label(for='name.last')= __i('Last Name')
+    input(name='name.last', value=userParams['name']['last'], id='name.last')
+  .control-group#login-email
+    label(for='email')= __i('Email')
+    input(type='email', name='email', value=userParams['email'], id='email')
+  .control-group#submit
+    input.btn.btn-primary(type='submit')= __i('Register')

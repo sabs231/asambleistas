@@ -1,0 +1,85 @@
+extends layout
+
+block content
+  ul.breadcrumb
+    li
+      a(href=url('elections.admin'))= __i('Administration')
+      span.divider /
+    li.active
+      a(href=url('elections.admin.users'))= __i('Users')
+
+  h2= __i('Users')
+  p= __i('You can manage the current users in this site.')
+  ul.nav.nav-pills
+    li
+      a(href='#users-add')= __i('Add User')
+    li
+      a(href='#users-list')= __i('Current Users')
+
+  h3#users-add= __i('Add User')
+  p= __i('In this section you can add a new user.')
+  form.well(action=url('elections.admin.users'), method='POST')
+    .control-group#user-username
+      label(for='username')= __i('User Name')
+      input(name='username', id='username', required=true, value=formValues.username)
+    .control-group#user-name-first
+      label(for='name-first')= __i('First Name')
+      input(name='name.first', id='name-first', required=true, value=formValues['name.first'])
+    .control-group#user-name-last
+      label(for='name-last')= __i('Last Name')
+      input(name='name.last', id='name-last', required=true, value=formValues['name.last'])
+    .control-group#user-email
+      label(for='email')= __i('Email')
+      input(type='email', name='email', id='email', required=true, value=formValues.email)
+    .control-group#submit
+      input.btn.btn-primary(type='submit')= __i('Save')
+
+  h3#users-list= __i('Current Users')
+  p= __i('In this section you will find a list of the current users.')
+
+  table.table.table-condensed.table-striped
+    thead
+      tr
+        th= __i('Name')
+        th= __i('Email')
+        th= __i('Roles')
+        th= __i('Has Twitter?')
+        th= __i('Has Facebook?')
+    - if(users.length)
+      tbody
+        - for cuser in users
+          tr
+            td
+              a(href=url('elections.admin.user', {userid: cuser._id}))= cuser.name.full
+            td= cuser.email
+            td= JSON.stringify(cuser.roles)
+            td= cuser.twit.id? __i('Yes') : __i('No')
+            td= cuser.fb.id? __i('Yes') : __i('No')
+      tfoot
+        tr
+          td(colspan=5)= __n('There is currently one user.', 'There are currently %d users.', totalUsers)
+    - else
+      tfoot
+        tr
+          td(colspan=5)= __i('There are currently no users.')
+
+  - if(users.length && users.length < totalUsers)
+    .pagination.pagination-centered
+      ul
+        li(class=(page==1? 'active disabled':''))
+          a(href=url('elections.admin.users')+'?offset=0#users-list')= __i('First')
+
+        - if(Math.max(1, page - 2) > 1)
+          li
+            a(href=url('elections.admin.users') + '?offset=' + (Math.max(0, Math.max(1, page - 2) - 4) * limit) + '#users-list') ...
+
+        - for(var i=Math.max(1, page - 2);i<=Math.min(totalPages, page + 2);i++)
+          li(class=(page==i? 'active disabled':''))
+            a(href=url('elections.admin.users') + '?offset=' + ((i - 1) * limit) + '#users-list')= i
+
+        - if(Math.min(totalPages, page + 2) < totalPages)
+          li
+            a(href=url('elections.admin.users') + '?offset=' + (Math.min(totalPages - 1, Math.min(totalPages, page + 2) + 2) * limit) + '#users-list') ...
+
+        li(class=(page==totalPages - 1? 'active disabled':''))
+          a(href=url('elections.admin.users') + '?offset=' + ((totalPages - 1) * limit) + '#users-list')= __i('Last')
