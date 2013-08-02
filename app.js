@@ -35,7 +35,6 @@ app.configure(function(){
   
   app.set('views', __dirname + '/views');
   app.set('view engine', 'jade');
-  app.set('view options', { layout: true });
 
   app.use(express.favicon());
   app.use(express.logger('dev'));
@@ -44,9 +43,6 @@ app.configure(function(){
   app.use(express.cookieParser(config.session.secret));
   app.use(express.session({secret: config.session.secret}));
   app.use(express.methodOverride());
-
-  // everyauth middleware
-  app.use(everyauth.middleware(app));
 
   // Internationalization - i18n Configuration
   i18n.configure(config.i18n);
@@ -63,11 +59,9 @@ app.configure(function(){
     next();
   });
 
-  // Setting locals
+  // Setting default locals
   app.use(function(req, res, next) {
     res.locals({
-      __i: i18n.__,
-      __n: i18n.__n,
       config: config,
       site: config.site,
       errors: [],
@@ -80,12 +74,20 @@ app.configure(function(){
     next();
   });
 
+  // everyauth middleware
+  app.use(everyauth.middleware(app));
+
   // Use the router down here, otherwise the locals are not available in the templates
   app.use(app.router);
 });
 
 app.configure('development', function(){
   app.use(express.errorHandler({ dump: true, stack: true }));
+
+  app.set('view options', { debug: true, pretty: true, compileDebug: true });
+  app.locals.debug = true;
+  app.locals.pretty = true;
+  app.locals.compileDebug = true;
 });
 
 /**
