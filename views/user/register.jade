@@ -1,7 +1,9 @@
 extends layout
 
 block content
-  h2 Register
-  
-  .well
-    include _register
+	div#login(data-role='page', data-title=title)
+		div(data-role='header')
+			h1= __(title)
+
+		div(data-role='content')
+			include _register

@@ -1,20 +1,21 @@
 - userParams.name = userParams.name || {};
 
+mixin alertlistfull()
+
 form(action='/register', method='POST')
-  .control-group#login-user
-    label(for='user')= __i('User Name')
-    input(name=everyauth.password.loginFormFieldName, value=userParams[everyauth.password.loginFormFieldName], id='user')
-  .control-group#login-password
-    label(for='password')= __i('Password')
-    input(type='password', name=everyauth.password.passwordFormFieldName, id='password')
-  .control-group#login-first-name
-    label(for='name.first')= __i('First Name')
-    input(name='name.first', value=userParams['name']['first'], id='name.first')
-  .control-group#login-last-name
-    label(for='name.last')= __i('Last Name')
-    input(name='name.last', value=userParams['name']['last'], id='name.last')
-  .control-group#login-email
-    label(for='email')= __i('Email')
-    input(type='email', name='email', value=userParams['email'], id='email')
-  .control-group#submit
-    input.btn.btn-primary(type='submit')= __i('Register')
+  div(data-role='fieldcontain')
+    label(for='register-username')= __('User Name')
+    input#register-username(name=everyauth.password.loginFormFieldName, value=userParams[everyauth.password.loginFormFieldName])
+  div(data-role='fieldcontain')
+    label(for='register-password')= __('Password')
+    input#register-password(type='password', name=everyauth.password.passwordFormFieldName)
+  div(data-role='fieldcontain')
+    label(for='register-name-first')= __('First Name')
+    input#register-name-first(name='name.first', value=userParams['name']['first'])
+  div(data-role='fieldcontain')
+    label(for='register-name-last')= __('Last Name')
+    input#register-name-last(name='name.last', value=userParams['name']['last'])
+  div(data-role='fieldcontain')
+    label(for='register-email')= __('Email')
+    input#register-email(type='email', name='email', value=userParams['email'])
+  button.ui-btn-hidden(type='submit', data-theme='b')= __('Register')
