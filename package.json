@@ -15,14 +15,13 @@
   "dependencies": {
     "debug": "*",
     "express": "3.x",
-    "jade": "*",
-    "i18n": "*",
-    "moment": "*",
-    "express-routes": "*",
+    "express-routes": ">= 0.0.1",
     "mongoose": "3.x",
     "mongoose-types": ">= 1.0.3",
-    "everyauth":  "*",
-    "mongoose-auth": "*"
+    "passport":  "*",
+    "passport-local":  "*",
+    "passport-facebook":  "*",
+    "passport-twitter":  "*"
   },
   "analyze": false,
   "readmeFilename": "README.md",

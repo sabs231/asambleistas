@@ -2,7 +2,6 @@ require('../models');
 
 var mongoose = require('mongoose'),
     User = mongoose.model('User'),
-    i18n = require('i18n'),
     routes = require('express-routes');
 
 module.exports = function(app) {

@@ -1,8 +1,0 @@
-form(action='/login', method='POST')
-	div.ui-hide-label(data-role='fieldcontain')
-		label(for='login-username')= __('User Name')
-		input#login-username(name=everyauth.password.loginFormFieldName, value=login, placeholder=__('User Name'))
-	div.ui-hide-label(data-role='fieldcontain')
-		label(for='login-password')= __('Password')
-		input#login-password(type='password', name=everyauth.password.passwordFormFieldName, placeholder=__('Password'))
-	button.ui-btn-hidden(type='submit', data-theme='b')= __('Login')
