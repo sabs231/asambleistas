@@ -1,0 +1,958 @@
+<--------------------->
+Name: Abad Vélez Raúl Eugenio
+Place: Provincia de Cañar
+Phone: (593)23991689/1690
+E-mail: raul.abad@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Acacho González Pepe Luis
+Place: Provincia de Morona Santiago
+Phone: (593)23991539/1540
+E-mail: pepe.acacho@asambleanacional.gob.ec
+Party: Alianza entre la Unidad Plurinacional de las Izquierdas Pachakutik
+<--------------------->
+<--------------------->
+Name: Acero Lanchimba Esthela Liliana
+Place: Provincia de Pichincha
+Phone: (593)23991647/1648
+E-mail: esthela.acero@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Aguilar Plácido Armando
+Place: Provincia de Sucumbios
+Phone: (593)23991655/1656
+E-mail: armando.aguilar@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Aguilar Torres Manuel Ramiro
+Place: Nacional
+Phone: (593)23991525/1526
+E-mail: manuel.aguilar@asambleanacional.gob.ec
+Party: Movimiento SUMA Sociedad Unida Más Acción
+<--------------------->
+<--------------------->
+Name: Aguiñaga Vallejo Marcela Paola
+Place: Nacional
+Phone: (593)23991364/1366
+E-mail: marcela.aguinaga@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Aguirre Dora Anadela
+Place: Europa, Asia y Oceanía
+Phone: (593)23991549/1550
+E-mail: dora.aguirre@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Alban Torres Mariana del Rocío
+Place: Provincia de Cotopaxi
+Phone: (593)23991695/1696
+E-mail: rocio.alban@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Alvarado Carrión Rosana
+Place: Provincia de Azuay
+Phone: (593)23991358/1359
+E-mail: rosana.alvarado@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Andino Reinoso Mauro Edmundo
+Place: Provincia de Chimborazo
+Phone: (593)23991024/1028
+E-mail: mauro.andino@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Andrade Varela Júpiter Gozoso de la Cruz
+Place: Provincia de Manabí
+Phone: (593)23991501/1502
+E-mail: jupiter.andrade@asambleanacional.gob.ec
+Party: Partido Avanza
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Arias Fernández Verónica Elizabeth
+Place: Provincia de Loja
+Phone: (593)23991000
+E-mail: veronica.arias@asambleanacional.gob.ec
+Party: Movimiento Acción Regional por la Equidad
+<--------------------->
+<--------------------->
+Name: Arias Ramírez Alberto Jesús
+Place: Provincia de Guayas
+Phone: (593)23991611/1612
+E-mail: alberto.arias@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Argüello Troya Blanca Azucena
+Place: Provincia de Pichincha
+Phone: (593)23991665/1666
+E-mail: blanca.arguello@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Arregui Rueda Marcia Cecilia
+Place: Provincia de Los Ríos
+Phone: (593)23991597/1598
+E-mail: marcia.arregui@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Auquilla Ortega Raúl Vicente
+Place: Provincia de Loja
+Phone: (593)23991571/157
+E-mail: raul.auquilla@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+Name: Benavides Zambrano Zoila Teresa
+Place: Provincia de Manabí
+Phone: (593)23991697/1698
+E-mail: zoila.benavides@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Bergmann Reyna Carlos Alberto
+Place: Provincia de Manabí
+Phone: (593)23991693/1694
+E-mail: carlos.bergmann@asambleanacional.gob.ec
+Party: Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Borja Pérez Galo
+Place: Provincia de El Oro
+Phone: (593)23991037
+E-mail: galo.borja@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Movimiento Autonómico Regional
+<--------------------->
+<--------------------->
+Name: Bucaram Pulley Abdalá Jaime
+Place: Nacional
+Phone: (593)23991549/1550
+E-mail: abdala.bucaram@asambleanacional.gob.ec
+Party: PRE Partido Roldosista Ecuatoriano
+<--------------------->
+<--------------------->
+Name: Buendía Herdoiza María Soledad
+Place: Provincia de Pichincha
+Phone: (593)23991675/1676
+E-mail: maria.buendia@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Bustamante Ponce Fernando Xavier
+Place: Provincia de Pichincha
+Phone: (593)23991060/1064
+E-mail: fernando.bustamante@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Bustos Chiliquinga Arcadio
+Place: Provincia de Sucumbios
+Phone: (593)23991513/1514
+E-mail: arcadio.bustos@asambleanacional.gob.ec
+Party: PSP, Partido Sociedad Patriótica "21 de enero"
+<--------------------->
+<--------------------->
+Name: Calderón Saltos Richard Oswaldo
+Place: Provincia de Imbabura
+Phone: (593)23991042/1046
+E-mail: richard.calderon@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Calle Andrade María Augusta
+Place: Provincia de Pichincha
+Phone: (593)23991061
+E-mail: maria.calle@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Carrillo Gallegos Betty Elizabeth
+Place: Provincia de Tungurahua
+Phone: (593)239911031
+E-mail: betty.carrillo@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Carrión Cevallos María José
+Place: Provincia de Pichincha
+Phone: (593)239911677/1678
+E-mail: maria.carrion@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Carvajal Aguirre Miguel Angel
+Place: Nacional
+Phone: (593)23991006/1008
+E-mail: miguel.carvajal@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Cassinelli Cali Juan Carlos
+Place: Provincia de Guayas
+Phone: (593)2399101012/1016
+E-mail: juan.cassinelli@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Cayambe Tipán Fausto Heriberto
+Place: Provincia de Pichincha
+Phone: (593)2399101635/1636
+E-mail: fausto.cayambe@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Cedeño Zambrano Johanna Elizabeth
+Place: Santo Domingo de los Tsáchilas
+Phone: (593)23991679/1680
+E-mail: johanna.cedeno@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Chávez Canales Hólger Ezequiel
+Place: Provincia de Bolívar
+Phone: (593)23991669/1670
+E-mail: holger.chavez@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Chica Arévalo Vinicio Vethowen
+Place: Provincia de Morona Santiago
+Phone: (593)23991639/1640
+E-mail: vethowen.chica@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Chicaiza Toapanta Wilson Alfonso
+Place: Provincia de Pichincha
+Phone: (593)23991569/1570
+E-mail: wilson.chicaiza@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Córdova Encalada Edgar Eduardo
+Place: Provincia de El Oro
+Phone: (593)23991681/1682
+E-mail: edgar.cordova@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Movimiento Autonómico Regional
+<--------------------->
+<--------------------->
+Name: Cucalón Camacho Henry Eduardo
+Place: Provincia de Guayas
+Phone: (593)23991535/1536
+E-mail: henry.cucalon@asambleanacional.gob.ec
+Party: Alianza entre el Partido Social Cristiano Madera de Guerrero
+<--------------------->
+<--------------------->
+Name: Cuesta Ríos Liuba Elisa
+Place: Provincia de Guayas
+Phone: (593)23991683/1316
+E-mail: liuba.cuesta@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: De la Cruz Bernardo Herman Ulises
+Place: Provincia de Carchi
+Phone: (593)23991685/1686
+E-mail: ulises.delacruz@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: De la Cruz Gaspar Adriana Moisotti
+Place: Provincia de Guayas
+Phone: (593)23991691/1692
+E-mail: adriana.delacruz@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Delgado Chalá Agustín Xavier
+Place: Provincia de Imbabura
+Phone: (593)23991658/1671
+E-mail: agustin.delgado@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Donoso Chiriboga Patricio
+Place: Nacional
+Phone: (593)23991567/1568
+E-mail: patricio.donoso@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+Name: Díaz Coka María Gabriela
+Place: Provincia de Pastaza
+Phone: (593)23991000
+E-mail: gabriela.diaz@asambleanacional.gob.ec
+Party: Partido Avanza
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Fajardo Mosquera Letty Vanessa
+Place: Provincia de Santa Elena
+Phone: (593)23991643/1644
+E-mail: vanessa.fajardo@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Falconí Loqui Evelyn Pamela
+Place: Provincia de Los Ríos
+Phone: (593)23991079
+E-mail: evelyn.falconi@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Farfán Aponte Richard Wilson
+Place: Provincia de Loja
+Phone: (593)23991340/1341
+E-mail: richard.farfan@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Partido Socialista Frente Amplio
+<--------------------->
+<--------------------->
+Name: Fierro Oviedo Paco
+Place: Provincia de Chimborazo
+Phone: (593)239911523/1524
+E-mail: paco.fierro@asambleanacional.gob.ec
+Party: Partido Sociedad Patriótica
+<--------------------->
+<--------------------->
+Name: Gagliardo Loor Gastón Alberto
+Place: Provincia de Guayas
+Phone: (593)23991645/1646
+E-mail: gaston.gagliardo@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Galván Gracia María Esperanza
+Place: Provincia de Esmeraldas
+Phone: (593)23991656/1660
+E-mail: maria.galvan@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Garzón Ricaurte William Antonio
+Place: Provincia de Santo Domingo de los Tsáchilas
+Phone: (593)23991663/1664
+E-mail: william.garzon@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Godoy Andrade Gina Jacqueline
+Place: Provincia de Guayas
+Phone: (593)23991025
+E-mail: gina.godoy@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: González Serrano Miryam Catarina
+Place: Provincia de Loja
+Phone: (593)23991055/1056
+E-mail: miryam.gonzalez@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Partido Socialista Frente Amplio
+<--------------------->
+<--------------------->
+Name: Guamán Castro Alex Francisco
+Place: Estados Unidos y Canadá
+Phone: (593)2399167/1668
+E-mail: alex.guaman@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Guamangate Ante Luis Gilberto
+Place: Provincia de Cotopaxi
+Phone: (593)23991657/1672
+E-mail: luis.guamangate@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Gudiño Mena Zobeida Guisela
+Place: Provincia de Zamora Chinchipe
+Phone: (593)23991072/1076
+E-mail: zobeida.gudino@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Guevara Villacrés Verónica Margarita
+Place: Provincia de Guayas
+Phone: (593)23991637/1638
+E-mail: veronica.guevara@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Gutiérrez Borbúa Fausto Gilmar
+Place: Nacional
+Phone: (593)239911517/1518
+E-mail: gilmar.gutierrez@asambleanacional.gob.ec
+Party: Partido Sociedad Patriótica
+<--------------------->
+<--------------------->
+Name: Guzmán Ochoa Liliana Maura
+Place: Provincia de Azuay
+Phone: (593)23991651/1652
+E-mail: liliana.guzman@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Hernández enríquez Virgilio Humberto
+Place: Provincia de Pichincha
+Phone: (593)23991085/1086
+E-mail: virgilio.hernandez@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Issa Wagner Nicolás José
+Place: Provincia de Guayas
+Phone: (593)23991649/1650
+E-mail: nicolas.issa@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Jerez Pilla Betty Maricela
+Place: Provincia de Tungurahua
+Phone: (593)23991627/1628
+E-mail: betty.jerez@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Jiménez Cabrera José Cléver
+Place: Provincia de Zamora Chinchipe
+Phone: (593)23991545/1546
+E-mail: clever.jimenez@asambleanacional.gob.ec
+Party: Alianza entre la Unidad Plurinacional de las Izquierdas Pachakutik
+<--------------------->
+<--------------------->
+Name: Juez Juez Omar Juseph
+Place: Provincia de Los Ríos
+Phone: (593)2399161/1620
+E-mail: nicolas.issa@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Kronfle Gómez María Cristina
+Place: Provincia de Guayas
+Phone: (593)23991105/1106
+E-mail: macristina.kronfle@asambleanacional.gob.ec
+Party: Partido Social Cristiano Madera de Guerrero
+<--------------------->
+<--------------------->
+Name: Larrea Viteri Lídice Vanessa
+Place: Provincia de Manabí
+Phone: (593)23991013
+E-mail: lidice.larrea@asambleanacional.gob.ec
+Party: Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Larriva Alvarado Oscar Oswaldo
+Place: Provincia de Azuay
+Phone: (593)23991036/1040
+E-mail: oscar.larriva@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Ledesma Zamora Oscar Alfonso
+Place: Provincia de Pastaza
+Phone: (593)23991621/1622
+E-mail: oscar.ledesma@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Machuca Moscoso Linda Maricela
+Place: Nacional
+Phone: (593)23991613/1614
+E-mail: linda.machuca@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Medina Mera Víctor Clemente
+Place: Provincia del Guayas
+Phone: (593)23991000
+E-mail: victor.medina@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Melo Garzón Esteban Andrés
+Place: Europa, Asia y Oceanía
+Phone: (593)23991625/1626
+E-mail: esteban.melo@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Moncayo Cevallos José Ricardo
+Place: Provincia de Chimborazo
+Phone: (593)23991565/1566
+E-mail: jose.moncayo@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+Name: Montaño Valencia Mae
+Place: Nacional
+Phone: (593)239911563/1564
+E-mail: mae.montano@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+Name: Moreta Panchez Miguel Angel
+Place: Provincia de Santo Domingo de los Tsáchilas
+Phone: (593)23991561/1562
+E-mail: miguel.moreta@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+Name: Mosquera Yánez Isabel Piedad
+Place: Nacional
+Phone: (593)23991000
+E-mail: isabel.mosquera@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Muñoz Avendaño Rosa Elvira
+Place: Provincia de Chimborazo
+Phone: (593)23991075
+E-mail: rosa.munoz@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Plurinacional de Pachakutik
+<--------------------->
+<--------------------->
+Name: Muñoz Vicuña Mariangel
+Place: Provincia de Azuay
+Phone: (593)23991641/1642
+E-mail: mariangel.munoz@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Ocles Padilla María Alexandra
+Place: Nacional
+Phone: (593)23991629/1630
+E-mail: alexandra.ocles@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Orellana Marquinez Magali Margoth
+Place: Provincia de Orellana
+Phone: (593)23991547/1548
+E-mail: magali.orellana@asambleanacional.gob.ec
+Party: Alianza entre la Unidad Plurinacional de las Izquierdas Pachakutik
+<--------------------->
+<--------------------->
+Name: Ortiz Gaspar Esther Flavia
+Place: Provincia de Esmeraldas
+Phone: (593)23991653/1654
+E-mail: esther.ortiz@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Pabón Caranqui Paola Verenice
+Place: Provincia de Pichincha
+Phone: (593)23991633/1634
+E-mail: paola.pabon@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Pacheco Ordóñez Bayron Eduardo
+Place: Provincia de Cañar
+Phone: (593)23991511/1512
+E-mail: bayron.pacheco@asambleanacional.gob.ec
+Party: Partido Avanza
+<--------------------->
+<--------------------->
+Name: Padrón Saeteros Gladys Paulina
+Place: Provincia de Cañar
+Phone: (593)23991631/1632
+E-mail: gladys.padron@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Páez Benalcázar Andrés Tarquino
+Place: Provincia de Pichincha
+Phone: (593)23991559/1560
+E-mail: andres.paez@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oportunidades
+<--------------------->
+<--------------------->
+Name: Patiño Aroca Raúl Leonardo
+Place: Provincia de Guayas
+Phone: (593)23991048/1052
+E-mail: raul.patino@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Peña Carrasco Diana Lucía
+Place: América Latina, El Caribe y África
+Phone: (593)23991601/1602
+E-mail: diana.pena@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Peña Pacheco Ximena del Rocío
+Place: Estados Unidos y Canadá
+Phone: (593)23991603/1604
+E-mail: ximena.pena@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Peñafiel Montesdeoca Juana Marisol
+Place: Provincia de Imbabura
+Phone: (593)23991687/1688
+E-mail: marisol.penafiel@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Ponce León Ximena Mercedes
+Place: Provincia de Pichincha
+Phone: (593)23991054/1058
+E-mail: ximena.ponce@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Posso Salgado Luis Antonio
+Place: Provincia de Imbabura
+Phone: (593)23991521/1522
+E-mail: luis.posso@asambleanacional.gob.ec
+Party: Partido Avanza
+<--------------------->
+<--------------------->
+Name: Proaño Cifuentes Roberth Mauricio
+Place: Provincia Pichincha
+Phone: (593)23991000
+E-mail: roberth.proano@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Reinoso Lescano María Elizabeth
+Place: Provincia de Tungutahua
+Phone: (593)23991000
+E-mail: maria.reinoso@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Reyes Hidalgo Cristina Eugenia
+Place: Provincia de Guayas
+Phone: (593)23991531/1532
+E-mail: cristina.reyes@asambleanacional.gob.ec
+Party: Alianza entre el Partido Social Cristiano Madera de Guerrero
+<--------------------->
+<--------------------->
+Name: Rivadeneira Burbano Gabriela Alejandra
+Place: Nacional
+Phone: (593)23991103
+E-mail: gabriela.rivadeneira@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Rivera López José Gabriel
+Place: Provincia de Esmeraldas
+Phone: (593)23991018/1022
+E-mail: gabriel.rivera@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Rivero Doguer Ángel Armando
+Place: Provincia de Guayas
+Phone: (593)23991605/1606
+E-mail: angel.rivero@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Rodríguez Delgado María Verónica
+Place: Provincia de Manabí
+Phone: (593)239911505/1506
+E-mail: maria.rodriguez@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Romero Loayza Franco Segundo
+Place: Provincia de El Oro
+Phone: (593)23991529/1530
+E-mail: franco.romero@asambleanacional.gob.ec
+Party: Partido Social Crstiano
+<--------------------->
+<--------------------->
+Name: Sáenz de Viteri Zajia Lautaro Enrique
+Place: Provincia de Los Ríos
+Phone: (593)23991609/1610
+E-mail: lautaro.saenz@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Salazar Cedeño Guadalupe Dolores
+Place: Provincia de Guayas
+Phone: (593)23991170/1171
+E-mail: guadalupe.salazar@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Salgado Ribadeneira Diego
+Place: Provincia de Pichincha
+Phone: (593)23991557/1558
+E-mail: diego.salgado@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oporunidades
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Sánchez Ordoñez Montgomery Luis
+Place: Provincia de El Oro
+Phone: (593)23991116/1120
+E-mail: montgomery.sanchez@asambleanacional.gob.ec
+Party: Movimiento PAIS Movimiento Autónomo Regional
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Serrano Reyes Nelson Alcides
+Place: Provincia de Pichincha
+Phone: (593)23991336/1337
+E-mail: nelson.serrano@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Solano Moreno Alex Fabián
+Place: Provincia de Bolívar
+Phone: (593)23991327/1328
+E-mail: alex.solano@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Partido Socialista Frente Amplio
+<--------------------->
+<--------------------->
+Name: Solorzano Sarria César Fausto
+Place: Provincia de Napo
+Phone: (593)239911519/1520
+E-mail: cesar.solorzano@asambleanacional.gob.ec
+Party: Partido Sociedad Patriótica "21 de enero"Partido Sociedad Patriótica "21 de enero"
+<--------------------->
+<--------------------->
+Name: Tacle Galárraga Moisés Fernando
+Place: Provincia de Guayas
+Phone: (593)23991322/1323
+E-mail: moises.tacle@asambleanacional.gob.ec
+Party: Alianza entre el Partido Social Cristiano Madera de Guerrero
+<--------------------->
+<--------------------->
+Name: Tapia Lombeyda Luis Fernando
+Place: Provincia de Bolívar
+Phone: (593)23991515/1516
+E-mail: luis.tapia@asambleanacional.gob.ec
+Party: Partido Sociedad Patriótica "21 de enero"Partido Sociedad Patriótica "21 de enero"
+<--------------------->
+<--------------------->
+Name: Tenelema Romero Edmundo Ramiro
+Place: Provincia de Esmeraldas
+Phone: (593)23991555/1566
+E-mail: edmundo.tenelema@asambleanacional.gob.ec
+Party: Movimiento CREO Creando Oporunidades
+<--------------------->
+<--------------------->
+<--------------------->
+Name: Terán Salcedo Ramón fortunado
+Place: Provincia de Los Ríos
+Phone: (593)23991000
+E-mail: ramon.teran@asambleanacional.gob.ec
+Party: Partido Social Cristiano Movimiento CREO
+<--------------------->
+<--------------------->
+Name: Terán Sarzosa Segundo Fausto
+Place: Provincia de Pichincha
+Phone: (593)23991329/1330
+E-mail: segundo.teran@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Tibán Guala Lourdes Licenia
+Place: Nacional
+Phone: (593)23991543/1544
+E-mail: lourdes.tiban@asambleanacional.gob.ec
+Party: Alianza entre la Unidad Plurinacional de las Izquierdas Paachakutik
+<--------------------->
+<--------------------->
+Name: Torres Torres Luis Fernando
+Place: Provincia de Tungurahua
+Phone: (593)23991324/1325
+E-mail: luis.torres@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento CREO Creando Oportunidades Movimiento Tiempo de Cambio
+<--------------------->
+<--------------------->
+Name: Torres Cedeño Kerlly Annabel
+Place: Provincia de Manabí
+Phone: (593)23991000
+E-mail: kerlly.torres@asambleanacional.gob.ec
+Party: Movimiento Alianza País
+<--------------------->
+<--------------------->
+Name: Tobar Núñez Raúl Ignacio
+Place: Provincia de Sucumbíos
+Phone: (593)23991000
+E-mail: raul.tobar@asambleanacional.gob.ec
+Party: Movimiento Alianza PaísMovimiento Alianza País
+<--------------------->
+<--------------------->
+Name: Umaginga Guamán César
+Place: Provincia de Cotopaxi
+Phone: (593)23991541/1542
+E-mail: cesar.umaginga@asambleanacional.gob.ec
+Party: Movimiento de Unidad Plurinacional Pachakutik
+<--------------------->
+<--------------------->
+Name: Uribe López Fanny Esther
+Place: Provincia de Galápagos
+Phone: (593)23991503/1504
+E-mail: fanny.uribe@asambleanacional.gob.ec
+Party: Partido Avanza
+<--------------------->
+<--------------------->
+Name: Valarezo Ordóñez Rocío del Carmen
+Place: Provincia de El Oro
+Phone: (593)23991090/1091
+E-mail: rocio.valarezo@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Movimiento Autonómico Regional
+<--------------------->
+<--------------------->
+Name: Valle Pinargote Bairon Leonardo
+Place: Provincia de Guayas
+Phone: (593)23991331/1332
+E-mail: bairon.valle@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Vásconez Arteaga Anny Marllely
+Place: Nacional
+Phone: (593)23991019/1020
+E-mail: marllely.vasconez@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Vela Caizapanta Ángel Ramiro
+Place: Provincia de Cotopaxi
+Phone: (593)23991334/1335
+E-mail: angel.vela@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Vela Cheroni María Soledad
+Place: Provincia de Manabí
+Phone: (593)23991607/1608
+E-mail: soledad.vela@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Velasco Enríquez Carlos Alberto
+Place: Provincia de Carchi
+Phone: (593)23991066/1072
+E-mail: carlos.velasco@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Véliz Briones José Felix
+Place: Provincia de Manabí
+Phone: (593)23991615/1616
+E-mail: jose.veliz@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Verduga Cedeño Mary Nesbith
+Place: Provincia de Santo Domingo de los Tsáchilas
+Phone: (593)23991252/1254
+E-mail: mary.verduga@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Vicuña Muñoz María Alejandra
+Place: Provincia de Guayas
+Phone: (593)23991067
+E-mail: maria.vicuna@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Vilema Freire Angel Ramiro
+Place: Provincia de Galápagos
+Phone: (593)23991043
+E-mail: angel.vilema@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Villacreses Peña Octavio Xavier Enrique
+Place: Provincia de Guayas
+Phone: (593)23991250/1251
+E-mail: octavio.villacreses@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Vintimilla Jarrín Diego Armando
+Place: Provincia de Azuay
+Phone: (593)23991252/1253
+E-mail: diego.vintimilla@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Viteri Gualinga Carlos Eloy
+Place: Nacional
+Phone: (593)23991078/1082
+E-mail: carlos.viteri@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Viteri Jiménez Cynthia Fernanda
+Place: Nacional
+Phone: (593)23991527/1528
+E-mail: cynthia.viteri@asambleanacional.gob.ec
+Party: Partido Social Cristiano
+<--------------------->
+<--------------------->
+Name: Viteri López Christian Humberto
+Place: Provincia del Guayas
+Phone: (593)23991000
+E-mail: christian.viteri@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Yandún Pozo Castulo René
+Place: Provincia de Carchi
+Phone: (593)23991537/1538
+E-mail: castulo.yandun@asambleanacional.gob.ec
+Party: Movimiento Integración Democratica del Carchi
+<--------------------->
+<--------------------->
+Name: Zambrano Arteaga José Ricardo
+Place: Provincia de Manabí
+Phone: (593)23991257
+E-mail: jose.zambrano@asambleanacional.gob.ec
+Party: Alianza entre el Movimiento PAIS Unidad Primero
+<--------------------->
+<--------------------->
+Name: Zambrano Cabanilla Eduardo Alfonso Isidro
+Place: América Latina, El Caribe y África
+Phone: (593)23991260/1261
+E-mail: eduardo.zambrano@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Zambrano Castro Noralma Elizabeth
+Place: Provincia de Santa Elena
+Phone: (593)23991262/1263
+E-mail: noralma.zambrano@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Zambrano Chacha Alberto Alexander
+Place: Provincia de Orellana
+Phone: (593)23991268/1269
+E-mail: alberto.zambrano@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->
+<--------------------->
+Name: Zapata Mantilla José Leonidas
+Place: Provincia de Los Ríos
+Phone: (593)23991263
+E-mail: jose.zapata@asambleanacional.gob.ec
+Party: Movimiento PAIS Patria Altiva I Soberana
+<--------------------->

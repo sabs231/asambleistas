@@ -1,0 +1,11 @@
+Errores:
+
+Asambleísta: Bustos Chiliquinga Arcadio
+			 Diáz Coka María Gabriela
+			 Tapia Lombeyda Luis Fernando
+			 Torres Cedeño Kerlly Annabel
+			 Tobar Núñez Raúl Ignacio
+error: punto al final en el partido !! .
+
+Asambleísta: Torres Torres Luis Fernando
+error: carácter acento invertido (`) WTF!?
