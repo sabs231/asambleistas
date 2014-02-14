@@ -1,3 +1,4 @@
+var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var XRegExp = require('xregexp').XRegExp;
@@ -47,9 +48,22 @@ request(url, function(err, resp, body) {
 		}
 	  if (!party)
 			party = $(this).find("td td p:first-child span").text().trim();
+		if (name && place && phone && mail && party)
+		{
+			var object =   "{ 'name' : '"  	+ name + "', " +
+										 "'province' : '" + place.trim() + "', " + 
+										 "'phone' : '" 	 	+ phone.trim() + "', " +
+										 "'email' : '"    + mail.trim() + "', " +
+										 "'party' : '"    + party + "' }\n";
+			fs.appendFile('asam.txt', object, function(err) {
+				if (err)
+					return (console.log(err));
+			});
+		}
+		/*
 		if (name)
 		{
-			console.log("<--------------------->");
+			console.log("{");
 			console.log("Name: " + name);
 		}
 		if (place)
@@ -61,6 +75,7 @@ request(url, function(err, resp, body) {
 		if (party)
 			console.log("Party: " + party);
 		console.log("<--------------------->");
+		*/
 	});
 });
 
