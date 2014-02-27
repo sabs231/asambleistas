@@ -25,7 +25,8 @@
     "connect-mongo": "~0.4.0",
     "passport": "latest",
     "passport-local": "latest",
-    "ejs": "~0.8.4"
+    "ejs": "~0.8.4",
+		"async": "latest"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
