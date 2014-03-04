@@ -1,8 +1,8 @@
-Funcion Judicial
-Presidente de la República
-Función Transparencia y control Social
-Defensoría del Pueblo
-Función Electoral
-Fiscalía General del estado
-Procuraduría General del Estado
-Ciudadanía
+{ "name" : { "first" : "Función Judicial", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "http://www.facebook.com/ConsejodelaJudicaturaec", "twlink": "http://twitter.com/CJudicaturaEc" }
+{ "name" : { "first" : "Rafael", "last" : "Correa", "middle" : "Vicente", "last2": "Delgado" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "http://www.facebook.com/MashiRafael", "twlink": "http://twitter.com/MashiRafael" }
+{ "name" : { "first" : "Función de Transparencia y Control Social", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "", "twlink": "" }
+{ "name" : { "first" : "Defensoría del Pueblo", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "http://www.facebook.com/DefensoriaEC", "twlink": "http://twitter.com/DEFENSORIAEC" }
+{ "name" : { "first" : "Función Electoral", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "http://www.facebook.com/cnegobec", "twlink": "https://twitter.com/cnegobec" }
+{ "name" : { "first" : "Procuraduría General del Estado", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "https://www.facebook.com/pages/Procuraduria-General-del-Estado-Ecuador/681626558537463", "twlink": "" }
+{ "name" : { "first" : "Fiscalía General del Estado", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "http://www.facebook.com/fiscaliageneraldelestado", "twlink": "http://twitter.com/FiscaliaEcuador" }
+{ "name" : { "first" : "Ciudadanía", "last" : "", "middle" : "", "last2": "" }, "province" : "", "phone" : "", "email" : "", "party" : "", "fblink": "", "twlink": "" }
